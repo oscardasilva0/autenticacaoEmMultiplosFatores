@@ -14,3 +14,6 @@ createInertiaApp({
       .mount(el)
   },
 })
+
+git config --global user.email "oscardasilva52@gmail.com"
+git config --global user.name "Oscar Da Silva"
